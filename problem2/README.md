@@ -2,4 +2,6 @@
 
 My algorithm is based on several functions which I explain graphically
 ![GitHub Logo](isHappyNumberFunction.jpg)
-![GitHub Logo](isHappyNumberFunction.jpg)
+![GitHub Logo](splitdigit.jpg)
+![GitHub Logo](sumSquareDigits.jpg)
+![GitHub Logo](noElementRepeat.jpg)
